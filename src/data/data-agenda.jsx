@@ -29,7 +29,7 @@ export const data_agenda = [
         level: "Advanced",
         kind: "Conferència",
         small_description: "Descubre qué hay detrás de los efectos especiales de tus películas y series favoritas. ",
-        description: "Descubre qué hay más allá de la pantalla, detrás de los efectos especiales de tus películas y series favoritas. José Pérez Cano, con experiencia en El Ranchito, nos hablará de la inteligencia artificial aplicada al mundo del cine y los modelos de inteligencia artificial que se emplean en el proceso de desarrollo de efectos especiales para las películas. Con muestras de contenido audiovisual para ilustrar su uso junto con las dificultades que comporta, nos hablará de una herramienta que desarrolló para hacer máscaras: los automatte, el uso de vidmatte y de los deepfake. ",
+        description: "Descubre qué hay más allá de la pantalla, detrás de los efectos especiales de tus películas y series favoritas. José Pérez Cano, con experiencia en El Ranchito, nos hablará de la inteligencia artificial aplicada al mundo del cine y los modelos de inteligencia artificial que se emplean en el proceso de desarrollo de efectos especiales para las películas. Con muestras de contenido audiovisual para ilustrar su uso junto con las dificultades que comporta, nos hablará de una herramienta que desarrolló para hacer máscaras: el automatte, y de los deepfakes. ",
         date: "TBC",
         time: "TBC",
         place: "TBC",
