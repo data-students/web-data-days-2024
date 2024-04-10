@@ -13,7 +13,7 @@ export const data_agenda = [
         lang: "CA"
     },
     {
-        title:"La meva primera xarxa neuronal (i competició de Kaggle)!",
+        title:"La meva primera xarxa neuronal",
         author: "Laia Mogas",
         level: "OpenToAll",
         kind: "Workshop",
