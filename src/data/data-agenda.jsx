@@ -4,11 +4,24 @@ export const data_agenda = [
         author: "Arcadi Navarro",
         level: "OpenToAll",
         kind: "Conferència",
-        small_description: "Arcadi Navarro, doctor en Biologia per la Universitat Autònoma de Barcelona, profesor d'investigació a ICREA i director de la Fundació Pasqual Maragall, ens donarà la resposta.",
+        small_description: "Arcadi Navarro, doctor en Biologia per la Universitat Autònoma de Barcelona, professor d'investigació a ICREA i director de la Fundació Pasqual Maragall, ens donarà la resposta.",
 
-        description: "Què és el Big Data en Genòmica Mèdica i què en podem fer? L'Arcadi Navarro, doctor en Biologia per la Universitat Autònoma de Barcelona, profesor d'invsetigació en ICREA i director de la Fundació Pasqual Maragall, ens donarà la resposta.",
+        description: "Què és el Big Data en Genòmica Mèdica i què en podem fer? L'Arcadi Navarro, doctor en Biologia per la Universitat Autònoma de Barcelona, professor d'investigació en ICREA i director de la Fundació Pasqual Maragall, ens donarà la resposta.",
         date: "11 de maig",
         time: "10:00h",
+        place: "TBC",
+        lang: "CA"
+    },
+    {
+        title:"La meva primera xarxa neuronal (i competició de Kaggle)!",
+        author: "Laia Mogas",
+        level: "OpenToAll",
+        kind: "Workshop",
+        small_description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia!",
+
+        description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia! Si no et sonen de res, no pateixis que t'ensenyarem des de 0 què són i com funcionen. Després, el teu model s'enfrontarà als casos privats del nostre Kaggle. Important: Recorda portar el teu ordinador.",
+        date: "TBC",
+        time: "TBC",
         place: "TBC",
         lang: "CA"
     },
