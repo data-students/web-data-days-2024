@@ -63,13 +63,13 @@ const FAQ = () => {
             Puc assistir només a una xerrada?
           </div>
           <div className="FAQanswer">
-            Sí, és clar! Pots venir a totes les que vulguis!
+            Sí, és clar! Pots venir a una, dues i a totes les que vulguis!
           </div>
           <div className="FAQquestion">
             Fins a quin dia tinc per apuntar-me?
           </div>
           <div className='FAQanswer'>
-            Les inscripcions romandran obertes fins que s&apos;assoleixi la capacitat esperada.
+            Les inscripcions romandran obertes fins que s&apos;assoleixi la capacitat màxima.
           </div>
           <div className="FAQquestion">
             Puc assistir-hi en línea?
@@ -83,7 +83,7 @@ const FAQ = () => {
           </div>
           <div className="FAQanswer">
             Uns dies abans de l&apos;esdeveniment, enviarem a totes les persones inscrites un correu electrònic per confirmar assistència. Agrairem que ens ho facis saber aleshores,
-            ja que permetrà que algú altre que potencialment s&apos;hagués quedat fora hi pugui assistir. També ens pots enviar un correu a <a href="mailto:hola@aed.cat">hola@aed.cat</a>.
+            ja que permetrà que algú altre que s&apos;hagi quedat fora hi pugui assistir. També ens pots enviar un correu a <a href="mailto:hola@aed.cat">hola@aed.cat</a>.
           </div>
           <div className="FAQquestion">
             Hi haurà connexió a internet?
@@ -95,10 +95,10 @@ const FAQ = () => {
             No tinc gaire coneixement sobre el món de les dades. Em recomaneu venir?
           </div>
           <div className='FAQanswer'>
-            És clar que sí! Els Data Days estan oberts a tothom. Farem xerrades i tallers de diversos nivells. Si no tens gaire coneixença sobre el món de les dades, pots optar per assistir als esdeveniments oberts a tothom (OpenToAll) o, fins i tot, a algun de més avançat (Advanced).
+            És clar que sí! Els Data Days estan oberts a tothom. Farem xerrades i tallers de diversos nivells. Si no tens gaire coneixença sobre el món de les dades, pots optar per assistir als esdeveniments oberts a tothom (OpenToAll).
           </div>
           <div className='FAQquestion'>Tinc més dubtes, com els resolc?</div>
-          <div className='FAQanswer'>Si tens encara més dubtes, pots contactar amb nosaltres a <a href="mailto:hola@aed.cat">hola@aed.cat</a>!</div>
+          <div className='FAQanswer'>Si encara et queden dubtes, pots contactar amb nosaltres a <a href="mailto:hola@aed.cat">hola@aed.cat</a>!</div>
         </div>
 
 
@@ -116,7 +116,7 @@ const FAQ = () => {
             Què implica ser voluntari?
           </div>
           <div className="FAQanswer">
-            Com a voluntari, ens donaràs un cop de mà durant el cap de setmana dels Data Days. Si vols, també ajudar-nos a organitzar l&apos;esdeveniment.
+            Com a voluntari, ens donaràs un cop de mà durant el cap de setmana dels Data Days. Si vols, també pots ajudar-nos a organitzar l&apos;esdeveniment.
           </div>
         </div>
 
