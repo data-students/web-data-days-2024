@@ -7,7 +7,7 @@ const capitalize = (str) =>
 const color_by_level = (state,level) => {
 
   if (state === "unclicked"){
-    if (level.level === "Beginner") {
+    if (level.level === "OpenToAll") {
       return "#fae7cf";
     }
     else if (level.level === "Advanced") {
@@ -16,7 +16,7 @@ const color_by_level = (state,level) => {
     return "#e5dac7";
   }
   if (state === "clicked"){
-    if (level.level === "Beginner") {
+    if (level.level === "OpenToAll") {
         return "#d19156";
     }
     else if (level.level === "Advanced"){
