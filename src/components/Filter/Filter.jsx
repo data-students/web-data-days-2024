@@ -34,7 +34,7 @@ const Filter = ({ level, isActive, onClick }) => {
         onClick={onClick}
         style={{ backgroundColor: `${isActive ? color_by_level("clicked", { level }) : color_by_level("unclicked",{ level })}` }}
       >
-        <h3 className="title text-nowrap" style={{ color: `${isActive ? color_by_level("unclicked", { level }) : "black"}` }}>{capitalize(level)}</h3>
+        <h3 className="title text-nowrap" style={{ color: `${isActive ? color_by_level("unclicked", { level }) : "black"}` }}>{level}</h3>
       </div>
     </div>
 
