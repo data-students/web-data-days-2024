@@ -23,6 +23,8 @@
   border: none;
   display: inline-block;
   padding: 4%;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
 
 .workshop-title {
