@@ -4,7 +4,7 @@ export const data_agenda = [
         author: "Arcadi Navarro",
         level: "OpenToAll",
         kind: "Conferència",
-        small_description: "Arcadi Navarro, doctor en Biologia per la Universitat Autònoma de Barcelona, professor d'investigació a ICREA i director de la Fundació Pasqual Maragall, ens donarà la resposta.",
+        small_description: "Arcadi Navarro, doctor en Biologia per la UAB, professor d'investigació a ICREA i director de la Fundació Pasqual Maragall, ens donarà la resposta.",
 
         description: "Modern science relies on open data sharing to accelerate progress, a lesson underscored by the COVID-19 crisis. Balancing the right to participate in science with the right to privacy is crucial. Efforts are underway to remove barriers to effective data sharing while respecting existing legislation and human rights. Dr. Navarro will discuss ongoing initiatives aimed at creating open, connected, and FAIR (Findable, Accessible, Interoperable and Reusable) environments for data storage, citing examples from genomics, anthropology, and healthcare.",
         date: "11 de maig",
