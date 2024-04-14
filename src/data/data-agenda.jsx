@@ -13,19 +13,6 @@ export const data_agenda = [
         lang: "CA"
     },
     {
-        title:"La meva primera xarxa neuronal",
-        author: "Laia Mogas",
-        level: "OpenToAll",
-        kind: "Workshop",
-        small_description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia!",
-
-        description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia! Si no et sonen de res, no pateixis que t'ensenyarem des de 0 què són i com funcionen. Després, el teu model s'enfrontarà als casos privats del nostre Kaggle. Important: Recorda portar el teu ordinador.",
-        date: "TBC",
-        time: "TBC",
-        place: "TBC",
-        lang: "CA"
-    },
-    {
         title: "Speed Dating amb sponsors",
         author: "Data Days",
         level: "OpenToAll",
@@ -37,7 +24,18 @@ export const data_agenda = [
         place: "TBC",
     },
     {
-        title: "Más allá de la pantalla: Efectos especiales y ML",
+        title: "Sports Analytics: Del camp al codi",
+        author: "Arnau Turch Ferreres",
+        level: "OpenToAll",
+        kind: "Conferència",
+        small_description: "T'apassionen les dades i l'esport? Descobreix com les dades estan revolucionant el món de l'esport.",
+        description: "T'apassionen les dades i l'esport? Descobreix com les dades estan revolucionant el món de l'esport, des del futbol fins al bàsquet. Explorarem l'impacte de l'anàlisi esportiva i com s'inicia, amb exemples del FC Barcelona. A més a més, obtindràs consells sobre com entrar en aquesta emocionant indústria. No et pots perdre aquesta conferència que explora el vincle entre les dades i l'esport!",
+        date: "TBC",
+        time: "TBC",
+        place:"TBC",
+    },
+    {
+        title: "Más allá de la pantalla: Efectos visuales y ML",
         author: "José Pérez Cano",
         level: "Advanced",
         kind: "Conferència",
@@ -47,6 +45,19 @@ export const data_agenda = [
         time: "TBC",
         place: "TBC",
         lang: 'ES',
+    },
+    {
+        title:"La meva primera xarxa neuronal",
+        author: "Laia Mogas",
+        level: "OpenToAll",
+        kind: "Workshop",
+        small_description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia!",
+
+        description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia! Si no et sonen de res, no pateixis que t'ensenyarem des de 0 què són i com funcionen. Després, el teu model s'enfrontarà als casos privats del nostre Kaggle. Important: Recorda portar el teu ordinador.",
+        date: "TBC",
+        time: "TBC",
+        place: "TBC",
+        lang: "CA"
     },
     {
         title: "Taking web development to the NextJS level",
