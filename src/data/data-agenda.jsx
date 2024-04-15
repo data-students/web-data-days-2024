@@ -13,17 +13,6 @@ export const data_agenda = [
         lang: "CA"
     },
     {
-        title: "Speed Dating amb sponsors",
-        author: "Data Days",
-        level: "OpenToAll",
-        kind: "Activity",
-        small_description: "Attendees will be matched with sponsors, and brief interactions of 5 minutes will take place!",
-        description: "Attendees will be paired with sponsors via an interests quiz. Brief interactions lasting 5 minutes will be facilitated. Additionally, there will be a sticker game: participants earn stickers by engaging with their matches, which can be redeemed for entry into a draw happening the following day (Sunday).",
-        date: "11 de maig",
-        time: "TBC",
-        place: "TBC",
-    },
-    {
         title: "Sports Analytics: Del camp al codi",
         author: "Arnau Turch Ferreres",
         level: "OpenToAll",
@@ -72,6 +61,17 @@ export const data_agenda = [
         lang: 'CA',
     },
     {
+        title: "Wikipedia race",
+        author: "Data Days",
+        level: "OpenToAll",
+        kind: "Activity",
+        small_description: "Torna l'activitat estrella de la Datathon!",
+        description: "Per torns, els jugadors han de passar d'una pàgina inicial de Wikipedia a una pàgina final específica utilitzant només els links dels articles. Demostra que ets el més ràpid.",
+        date: "11 de maig",
+        time: "TBC",
+        place: "TBC",
+    },
+    {
         title:"The Information Age: Estudis de futur",
         author: "Jordi Cortadella i Ferran Marqués",
         level: "OpenToAll",
@@ -82,6 +82,17 @@ export const data_agenda = [
         date: "TBC",
         place: "TBC",
         lang: "CA"
+    },
+    {
+        title: "Speed Dating amb sponsors",
+        author: "Data Days",
+        level: "OpenToAll",
+        kind: "Activity",
+        small_description: "Attendees will be matched with sponsors, and brief interactions of 5 minutes will take place!",
+        description: "Attendees will be paired with sponsors via an interests quiz. Brief interactions lasting 5 minutes will be facilitated. Additionally, there will be a sticker game: participants earn stickers by engaging with their matches, which can be redeemed for entry into a draw happening the following day (Sunday).",
+        date: "11 de maig",
+        time: "TBC",
+        place: "TBC",
     }
 
 ]
