@@ -79,7 +79,14 @@ export const data_agenda = [
         level: "Advanced",
         kind: "Conferència",
         small_description: "L'IA com a eina per la comprensió i gestió de recursos i medi ambient a través de l'observació de la Terra.",
-        description: "L'ús de la intel·ligència artificial (IA) en la teledetecció i l'observació de la Terra ha emergit com una eina crítica per comprendre i gestionar els recursos naturals i el medi ambient. \n\nIntegran l'aprenentatge automàtic i la visió per computador amb dades de sensors remots, s'ha possibilitat una detecció més precisa de canvis ambientals, com la desforestació, l'urbanització i els impactes del canvi climàtic.\n\n Això no només permet una monitorització més eficaç dels ecosistemes terrestres i marins, sinó que també facilita la presa de decisions informada en àmbits com la gestió dels recursos naturals, la prevenció de desastres o la planificació urbana, com s’ha demostrat en l’àmbit del grup de recerca CommSensLab de la UPC en aspectes com la gestió de l’aigua de rec dintre del projecte AI4Water o la predicció de la superficie cremada en boscos. \n\nLa integració de la IA en aquests camps representa un pas significatiu cap a una gestió més eficient i sostenible del nostre planeta, amb implicacions profundes per a la ciència, la tecnologia i la presa de decisions a nivell global.",
+        description: (
+              <div>
+                L'ús de la intel·ligència artificial (IA) en la teledetecció i l'observació de la Terra ha emergit com una eina crítica per comprendre i gestionar els recursos naturals i el medi ambient. <br/><br/>
+                Integran l'aprenentatge automàtic i la visió per computador amb dades de sensors remots, s'ha possibilitat una detecció més precisa de canvis ambientals, com la desforestació, l'urbanització i els impactes del canvi climàtic.<br/><br/>
+                Això no només permet una monitorització més eficaç dels ecosistemes terrestres i marins, sinó que també facilita la presa de decisions informada en àmbits com la gestió dels recursos naturals, la prevenció de desastres o la planificació urbana, com s’ha demostrat en l’àmbit del grup de recerca CommSensLab de la UPC en aspectes com la gestió de l’aigua de rec dintre del projecte AI4Water o la predicció de la superficie cremada en boscos. <br/><br/>
+                La integració de la IA en aquests camps representa un pas significatiu cap a una gestió més eficient i sostenible del nostre planeta, amb implicacions profundes per a la ciència, la tecnologia i la presa de decisions a nivell global.
+              </div>
+            ),
         date: "TBC",
         time: "TBC",
         place: "TBC",
