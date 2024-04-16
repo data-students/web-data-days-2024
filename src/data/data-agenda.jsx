@@ -36,7 +36,7 @@ export const data_agenda = [
         lang: 'ES',
     },
     {
-        title: "Ciència de dades a la Formula Student: el cotxe autònom que arriba als 120km/h",
+        title: "Ciència de dades a la Formula Student",
         author: "Andreu Huguet",
         level: "Advanced",
         kind: "Conferència",
