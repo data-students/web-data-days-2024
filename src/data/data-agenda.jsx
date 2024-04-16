@@ -36,7 +36,7 @@ export const data_agenda = [
         lang: 'ES',
     },
     {
-        title: "Ciència de dades a la Formula Student",
+        title: "El cotxe autònom fet per estudiants a la Formula Student",
         author: "Andreu Huguet",
         level: "Advanced",
         kind: "Conferència",
