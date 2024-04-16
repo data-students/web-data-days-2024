@@ -36,6 +36,18 @@ export const data_agenda = [
         lang: 'ES',
     },
     {
+        title: "Ciència de dades a la Formula Student: el cotxe autònom que arriba als 120km/h",
+        author: "Andreu Huguet",
+        level: "Advanced",
+        kind: "Conferència",
+        small_description: "Descobreix com va ser la construcció des de zero d'un cotxe autònom fet per estudiants que assolia els 120km/h.",
+        description: "L'Andreu compartirà la seva experiència en un equip d'estudiants universitaris durant el desenvolupament d'algorismes i la implementació des de zero d'un cotxe autònom, capaç d'assolir els 120 km/h. S'explicaran els detalls tècnics dels algorismes, anècdotes de la insanitat del projecte i les solucions innovadores fetes a la temporada 2020-21 del Formula Student.",
+        date: "TBC",
+        time: "TBC",
+        place: "TBC",
+        lang: 'ES',
+    },
+    {
         title:"La meva primera xarxa neuronal",
         author: "Laia Mogas",
         level: "OpenToAll",
