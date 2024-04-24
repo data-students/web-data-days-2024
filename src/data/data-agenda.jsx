@@ -104,6 +104,7 @@ export const data_agenda = [
         kind: "Activity",
         small_description: "Competició de programació per relleus. A veure qui és més ràpid amb el codi del teu equip!",
         description: "Un nou joc que determinarà qui és el millor equip programant! Diversos equips s'enfrontaran en aquest trepidant repte que consisteix en resoldre tres problemes de programació amb diferents obstacles a superar. Programa durant 1 minut i passa-li el codi al company, qui haurà de seguir amb el repte! L'equip que resolgui abans els tres problemes, serà proclamat màxim guanyador. T'atreveixes? -- hi ha premi per l'equip guanyador ;)",
+        date: "TBC",
         time: "TBC",
         place: "TBC",
         lang: "",
