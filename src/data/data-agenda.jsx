@@ -62,6 +62,19 @@ export const data_agenda = [
         lang: "CA",
     },
     {
+        title: "El Futuro de la Medicina: Datos, Salud y Biomedicina",
+        author: "Paula Petrone",
+        level: "OpenToAll",
+        kind: "Conferència",
+        small_description: "Cómo puede la IA ayudar a los médicos a diagnosticar y tratar enfermedades crónicas?",
+        description: "Todos los seres humanos somos únicos, nuestra genética y nuestro entorno nos define y condiciona nuestro presente y nuestro futuro. En plena era digital, la información sobre nuestra identidad, comportamiento y salud se adquiere de tantas maneras que a veces nos pasan desapercibidas. El trabajo y ambición de Paula Petrone consisten en integrar toda la información disponible sobre nuestra salud (bienestar, dieta, sentimientos, actividad física, estrés, contaminación, clima) y crear modelos que nos permitan en el futuro cercano comprender mejor y curar enfermedades complejas como el cáncer, la depresión, el Alzheimer y la malaria. En esta charla Paula nos hablará sobre su experiencia como científica de datos trabajando en temas de biomedicina. Compartirá algunas impresiones generales del entorno académico, industrial y emprendedor, y  las oportunidades y desafíos en cada uno de ellos.",
+        date: "TBC",
+        time: "TBC",
+        place: "TBC",
+        lang: "ES",
+    },
+    
+    {
         title: "Finance: Guiding strategy through NLP (sentiment analysis)",
         author: "Inés Broto Clemente",
         level: "Advanced",
@@ -111,7 +124,7 @@ export const data_agenda = [
         
     },
     {
-        title:"La meva primera xarxa neuronal",
+        title:"Neural Networks 101: Learn the basics",
         author: "Laia Mogas",
         level: "OpenToAll",
         kind: "Workshop",
