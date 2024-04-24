@@ -30,7 +30,7 @@ export const data_agenda = [
         level: "Advanced",
         kind: "Conferència",
         small_description: "The new revolution: the transformative potential of Deep Learning in revolutionizing Science.",
-        description: "This last decade has seen a revolution in Deep Learning. The next decade is likely to see a similar revolution in Science powered by Deep Learning. This talk by Ferran Alet, MIT doctorate in machine learning and robotics, will cover the first-hand experience in the research process of both fields: from the process of designing novel algorithms to building ML models that recently became the best weather in the world, outperforming traditional physics models.",
+        description: "This last decade has seen a revolution in Deep Learning. The next decade is likely to see a similar revolution in Science powered by Deep Learning. This talk by Ferran Alet, MIT doctorate in machine learning and robotics, will cover the first-hand experience in the research process of both fields: from the process of designing novel algorithms to building ML models that recently became the best weather models in the world, outperforming traditional physics models.",
         date: "12 de maig",
         time: "13h00",
         place: "TBC",
@@ -60,6 +60,42 @@ export const data_agenda = [
         time: "TBC",
         place: "TBC",
         lang: "CA",
+    },
+    {
+        title: "Finance: Guiding strategy through NLP (sentiment analysis)",
+        author: "Inés Broto Clemente",
+        level: "Advanced",
+        kind: "Conferència - TFG",
+        small_description: "Discover the uses of NLP and sentiment analysis in the field of Finance!",
+        description: (
+            <div>
+            The recent developments in Natural Language Processing have attracted the attention of a large number of practitioners. One of the most relevant applications in this field is the sentiment analysis of a given text. It is a valuable and challenging task that many companies in various sectors include as part of their data science pipeline. <br/><br/>
+             For example, in the field of Finance, the most innovative companies work to obtain sentiment indicators by analyzing textual data, either to predict market movements, guide trading strategies, or sell that valuable information to third parties.<br/><br/>
+            Inés Broto, in this first part of former data degree students presenting their TFG, unveils the world of finance and data to us.
+            </div>
+        ),
+        date: "TBC",
+        time: "TBC",
+        place: "TBC",
+        lang: "",
+    },
+    {
+        title: "Redefining Defense in Basketball's New Era",
+        author: "Aina Mas Tena",
+        level: "Advanced",
+        kind: "Conferència - TFG",
+        small_description: "Data has transformed offensive strategies in basketball. Defense must adapt to the data-driven game!",
+        description: (
+            <div>
+            The introduction of the three-point line in the National Basketball Association (NBA) has brought a significant transformation in the way teams understand and play the game. With the advent of the 3-pointer, teams progressively adapted their offensive strategies, changing their style of play and their shot selection patterns. However, on the defensive end, teams have struggled to adapt to these strategies with the same effectiveness.  <br/><br/>
+            Aina Mas, in this second part of former data degree students presenting their TFG, focuses on using basketball tracking data to analyze and optimize defensive strategies in response to the growing prevalence of the three-point shot.
+            </div>
+            
+        ),
+        date: "TBC",
+        time: "TBC",
+        place: "TBC",
+        lang: "",
     },
     {
         title:"La meva primera xarxa neuronal",
