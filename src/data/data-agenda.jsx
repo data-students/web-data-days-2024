@@ -142,7 +142,7 @@ export const data_agenda = [
         level: "OpenToAll",
         kind: "Workshop",
         small_description: "Inicia't al món del desenvolupament web modern i fes el teu primer lloc web!",
-        description: "Una introducció al desenvolupament web modern, on aprendràs els conceptes bàsics de HTML, CSS i JavaScript. També parlarem de frameworks, en concret NextJS! Aquest taller està pensat per a aquells que vulguin començar a programar i no sàpiguen per on començar. No cal cap coneixement previ!",
+        description: "Una introducció al desenvolupament web modern, on aprendràs els conceptes bàsics de HTML, CSS i JavaScript. També parlarem de frameworks, en concret NextJS! Aquest taller està pensat per a aquells que vulguin començar a programar i no sàpiguen per on començar. No cal cap coneixement previ! Recorda portar el teu portàtil.",
         date: "TBC",
         time: "TBC",
         place: "TBC",
