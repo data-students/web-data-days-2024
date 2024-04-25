@@ -19,7 +19,7 @@ export const data_agenda = [
         kind: "Conferència",
         small_description: "T'apassionen les dades i l'esport? Descobreix com les dades estan revolucionant el món de l'esport.",
         description: "T'apassionen les dades i l'esport? Descobreix com les dades estan revolucionant el món de l'esport, des del futbol fins al bàsquet. Explorarem l'impacte de l'anàlisi esportiva i com s'inicia, amb exemples del FC Barcelona. A més a més, obtindràs consells sobre com entrar en aquesta emocionant indústria. No et pots perdre aquesta conferència que explora el vincle entre les dades i l'esport!",
-        date: "TBC",
+        date: "11 de maig",
         time: "TBC",
         place:"TBC",
         lang: "CA",
@@ -56,7 +56,7 @@ export const data_agenda = [
         kind: "Conferència",
         small_description: "Com va ser la construcció d'un cotxe autònom des de zero fet per estudiants que assolia els 120km/h.",
         description: "L'Andreu Huguet compartirà la seva experiència en un equip d'estudiants universitaris durant el desenvolupament d'algorismes i la implementació des de zero d'un cotxe autònom, capaç d'assolir els 120 km/h. S'explicaran els detalls tècnics dels algorismes, anècdotes de la insanitat del projecte i les solucions innovadores fetes a la temporada 2020-21 del Formula Student.",
-        date: "TBC",
+        date: "11 de maig",
         time: "TBC",
         place: "TBC",
         lang: "CA",
@@ -68,7 +68,7 @@ export const data_agenda = [
         kind: "Conferència",
         small_description: "Cómo puede la IA ayudar a los médicos a diagnosticar y tratar enfermedades crónicas?",
         description: "Todos los seres humanos somos únicos, nuestra genética y nuestro entorno nos define y condiciona nuestro presente y nuestro futuro. En plena era digital, la información sobre nuestra identidad, comportamiento y salud se adquiere de tantas maneras que a veces nos pasan desapercibidas. El trabajo y ambición de Paula Petrone consisten en integrar toda la información disponible sobre nuestra salud (bienestar, dieta, sentimientos, actividad física, estrés, contaminación, clima) y crear modelos que nos permitan en el futuro cercano comprender mejor y curar enfermedades complejas como el cáncer, la depresión, el Alzheimer y la malaria. En esta charla Paula nos hablará sobre su experiencia como científica de datos trabajando en temas de biomedicina. Compartirá algunas impresiones generales del entorno académico, industrial y emprendedor, y  las oportunidades y desafíos en cada uno de ellos.",
-        date: "TBC",
+        date: "11 de maig",
         time: "TBC",
         place: "TBC",
         lang: "ES",
@@ -87,7 +87,7 @@ export const data_agenda = [
             Inés Broto, in this first part of former data degree students presenting their TFG, unveils the world of finance and data to us.
             </div>
         ),
-        date: "TBC",
+        date: "11 de maig",
         time: "TBC",
         place: "TBC",
         lang: "",
@@ -105,7 +105,7 @@ export const data_agenda = [
             </div>
             
         ),
-        date: "TBC",
+        date: "11 de maig",
         time: "TBC",
         place: "TBC",
         lang: "",
@@ -116,12 +116,24 @@ export const data_agenda = [
         level: "OpenToAll",
         kind: "Activity",
         small_description: "Competició de programació per relleus. A veure qui és més ràpid amb el codi del teu equip!",
-        description: "Un nou joc que determinarà qui és el millor equip programant! Diversos equips s'enfrontaran en aquest trepidant repte que consisteix en resoldre tres problemes de programació amb diferents obstacles a superar. Programa durant 1 minut i passa-li el codi al company, qui haurà de seguir amb el repte! L'equip que resolgui abans els tres problemes, serà proclamat màxim guanyador. T'atreveixes? -- hi ha premi per l'equip guanyador ;)",
-        date: "TBC",
+        description: "Un nou joc que determinarà qui és el millor equip programant! Diversos equips s'enfrontaran en aquest trepidant repte que consisteix en resoldre tres problemes de programació amb diferents obstacles a superar. Programa durant 1 minut i passa-li el codi al company, qui haurà de seguir amb el repte! L'equip que resolgui abans els tres problemes, serà proclamat màxim guanyador. T'atreveixes? -- hi ha premi per a l'equip guanyador ;)",
+        date: "12 de maig",
         time: "TBC",
         place: "TBC",
         lang: "",
         
+    },
+    {
+        title: "Batalla d'intel·lectes al Corrent",
+        author: "Organitzadores",
+        level: "OpenToAll",
+        kind: "Activity",
+        small_description: "Posa a prova el teu coneixement en aquest Passaparaula per equips (relleus)!",
+        description: "Un nou joc que determinarà qui en sap més! En aquesta nova versió del Passaparaula, diversos equips s'enfrontaran per demostrar que en saben més que tota la resta. Endevinar durant 15 segons i passar el rosco al company, qui haurà de seguir amb el repte! L'equip que acabi abans serà proclamat màxim guanyador. T'atreveixes? -- hi ha premi per a l'equip guanyador ;)",
+        date: "12 de maig",
+        time: "TBC",
+        place: "TBC",
+        lang: "CA",
     },
     {
         title:"Neural Networks 101: Learn the basics",
@@ -129,9 +141,8 @@ export const data_agenda = [
         level: "OpenToAll",
         kind: "Workshop",
         small_description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia!",
-
         description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia! Si no et sonen de res, no pateixis que t'ensenyarem des de 0 què són i com funcionen. Després, el teu model s'enfrontarà als casos privats del nostre Kaggle. Important: Recorda portar el teu ordinador.",
-        date: "TBC",
+        date: "11 de maig",
         time: "TBC",
         place: "TBC",
         lang: "CA"
@@ -143,7 +154,7 @@ export const data_agenda = [
         kind: "Workshop",
         small_description: "Inicia't al món del desenvolupament web modern i fes el teu primer lloc web!",
         description: "Una introducció al desenvolupament web modern, on aprendràs els conceptes bàsics de HTML, CSS i JavaScript. També parlarem de frameworks, en concret NextJS! Aquest taller està pensat per a aquells que vulguin començar a programar i no sàpiguen per on començar. No cal cap coneixement previ! Recorda portar el teu portàtil.",
-        date: "TBC",
+        date: "11 de maig",
         time: "TBC",
         place: "TBC",
         lang: 'CA',
@@ -162,7 +173,7 @@ export const data_agenda = [
                 La integració de la IA en aquests camps representa un pas significatiu cap a una gestió més eficient i sostenible del nostre planeta, amb implicacions profundes per a la ciència, la tecnologia i la presa de decisions a escala global.
               </div>
             ),
-        date: "TBC",
+        date: "12 de maig",
         time: "TBC",
         place: "TBC",
         lang: "CA",
@@ -187,7 +198,7 @@ export const data_agenda = [
         small_description: "Jornada de portes obertes on s’exposen estudis vinculats amb la ciència i enginyeria de dades.",
 
         description: "En Jordi Cortadella i Ferran Marqués, professors de la Universitat Politècnica de Catalunya, ofereixen una jornada de portes obertes on s’exposen els diversos estudis vinculats amb la ciència i enginyeria de dades. Xerrada adreçada principalment a estudiants de batxillerat.",
-        date: "TBC",
+        date: "11 de maig",
         place: "TBC",
         lang: "CA"
     },
