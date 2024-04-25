@@ -111,6 +111,19 @@ export const data_agenda = [
         lang: "",
     },
     {
+        title: "Size Matters: The Power of Image Compression",
+        author: "Fernando Gastón",
+        level: "OpenToAll",
+        kind: "Conferència",
+        small_description: "With big data comes great responsibility! Explore image compression techniques.",
+        description: "With big data comes great responsibility! The immense amounts of information generated every minute carry huge economic and environmental costs due to data center expenses. However, using mathematical and algorithmic tools such as probability, Fourier transforms, and predictive coding, these challenges can be addressed. During the talk, Fernando Gastón from the Knowledge Transfer Unit at Centre de Recerca Matemàtica (CRM) will introduce some of the essential tools for image compression. After the presentation, he will conduct a hands-on workshop where he'll demonstrate how to compress images using just a few lines of Python code, so don't forget to bring your laptop!",
+        date: "12 de maig",
+        time: "TBC",
+        place: "TBC",
+        lang: "",
+        
+    },
+    {
         title: "PASS THE CODE",
         author: "Organitzadores",
         level: "OpenToAll",
