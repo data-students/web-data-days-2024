@@ -78,7 +78,7 @@ const Agenda = () => {
         {data_agenda
           .filter((item) => {
             // AQUÍ TAMBÉ ESTEM FILTRANT SEGONS LA DESCRIPCIÓ
-            return inputValue.toLowerCase() === "" ? item : (item.title.toLowerCase().includes(inputValue.toLowerCase()) || item.description.toLowerCase().includes(inputValue.toLowerCase()));
+            return inputValue.toLowerCase() === "" ? item : (item.title.toLowerCase().includes(inputValue.toLowerCase()) || item.small_description.toLowerCase().includes(inputValue.toLowerCase()));
           })
           .filter((item) => {
             return item.level.includes(activeFilter);
