@@ -37,3 +37,15 @@
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
+
+@media (max-width: 768px) {
+    .dialog-agenda{
+        width: 100%;
+    }
+
+    .modal-body * {
+        font-size: 1rem !important;
+    }
+        
+}
