@@ -83,7 +83,7 @@ export const data_agenda = [
         description: (
             <div>
             The recent developments in Natural Language Processing have attracted the attention of a large number of practitioners. One of the most relevant applications in this field is the sentiment analysis of a given text. It is a valuable and challenging task that many companies in various sectors include as part of their data science pipeline. <br/><br/>
-             For example, in the field of Finance, the most innovative companies work to obtain sentiment indicators by analyzing textual data, either to predict market movements, guide trading strategies, or sell that valuable information to third parties.<br/><br/>
+            In the field of Finance, the most innovative companies work to obtain sentiment indicators by analyzing textual data, either to predict market movements, guide trading strategies, or sell that valuable information to third parties.<br/><br/>
             Inés Broto, in this first part of former data degree students presenting their TFG, unveils the world of finance and data to us.
             </div>
         ),
