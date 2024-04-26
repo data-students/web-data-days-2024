@@ -42,7 +42,7 @@ export const data_agenda = [
         author: "José Pérez Cano",
         level: "Advanced",
         kind: "Conferència",
-        small_description: "Descubre qué hay detrás de los efectos especiales de tus películas y series favoritas. ",
+        small_description: "Descubre qué hay detrás de los efectos visuales de tus películas y series favoritas. ",
         description: "Descubre qué hay más allá de la pantalla, detrás de los efectos especiales de tus películas y series favoritas. José Pérez Cano, con experiencia en El Ranchito, nos hablará de la inteligencia artificial aplicada al mundo del cine y los modelos de inteligencia artificial que se emplean en el proceso de desarrollo de efectos especiales para las películas. Con muestras de contenido audiovisual para ilustrar su uso junto con las dificultades que comporta, nos hablará de una herramienta que desarrolló para hacer máscaras: el automatte, y de los deepfakes. ",
         date: "12 de maig",
         time: "TBC",
@@ -179,17 +179,6 @@ export const data_agenda = [
         lang: "CA"
     },
     {
-        title: "Speed Dating amb sponsors",
-        author: "Data Days",
-        level: "OpenToAll",
-        kind: "Activity",
-        small_description: "Attendees will be matched with sponsors, and brief interactions of 5 minutes will take place!",
-        description: "Attendees will be paired with sponsors via an interests quiz. Brief interactions lasting 5 minutes will be facilitated. Additionally, there will be a sticker game: participants earn stickers by engaging with their matches, which can be redeemed for entry into a draw happening the following day (Sunday).",
-        date: "11 de maig",
-        time: "TBC",
-        place: "TBC",
-    },
-    {
         title:"Data Hunt",
         author:"Organitzadores",
         level:"OpenToAll",
@@ -204,11 +193,11 @@ export const data_agenda = [
         date:"11 de maig",
         time:"TBC",
         place:"TBC",
-        lang:"",
+        lang:"CA",
     },
         
     {
-        title: "PASS THE CODE",
+        title: "Pass The Code",
         author: "Organitzadores",
         level: "OpenToAll",
         kind: "Activity",
@@ -217,17 +206,17 @@ export const data_agenda = [
         date: "12 de maig",
         time: "TBC",
         place: "TBC",
-        lang: "",
+        lang: "CA",
         
     },
     
     {
-        title: "Batalla d'intel·lectes al Corrent",
+        title: "Passa-la-paraula",
         author: "Organitzadores",
         level: "OpenToAll",
         kind: "Activity",
-        small_description: "Posa a prova el teu coneixement en aquest Passaparaula per equips (relleus)!",
-        description: "Un nou joc que determinarà qui en sap més! En aquesta nova versió del Passaparaula, diversos equips s'enfrontaran per demostrar que en saben més que tota la resta. Endevinar durant 15 segons i passar el rosco al company, qui haurà de seguir amb el repte! L'equip que acabi abans serà proclamat màxim guanyador. T'atreveixes? -- hi ha premi per a l'equip guanyador ;)",
+        small_description: "Posa a prova el teu coneixement en aquest roscó per equips!",
+        description: "Un nou joc que determinarà qui en sap més! En aquesta nova versió del Passa-la-paraula, diversos equips s'enfrontaran per demostrar els seus coneixements. L'equip que acabi abans serà proclamat màxim guanyador. T'atreveixes? -- hi ha premi per a l'equip guanyador ;)",
         date: "12 de maig",
         time: "TBC",
         place: "TBC",
