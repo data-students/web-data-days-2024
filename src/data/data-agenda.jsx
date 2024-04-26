@@ -124,55 +124,6 @@ export const data_agenda = [
         
     },
     {
-        title: "PASS THE CODE",
-        author: "Organitzadores",
-        level: "OpenToAll",
-        kind: "Activity",
-        small_description: "Competició de programació per relleus. A veure qui és més ràpid amb el codi del teu equip!",
-        description: "Un nou joc que determinarà qui és el millor equip programant! Diversos equips s'enfrontaran en aquest trepidant repte que consisteix en resoldre tres problemes de programació amb diferents obstacles a superar. Programa durant 1 minut i passa-li el codi al company, qui haurà de seguir amb el repte! L'equip que resolgui abans els tres problemes, serà proclamat màxim guanyador. T'atreveixes? -- hi ha premi per a l'equip guanyador ;)",
-        date: "12 de maig",
-        time: "TBC",
-        place: "TBC",
-        lang: "",
-        
-    },
-    {
-        title: "Batalla d'intel·lectes al Corrent",
-        author: "Organitzadores",
-        level: "OpenToAll",
-        kind: "Activity",
-        small_description: "Posa a prova el teu coneixement en aquest Passaparaula per equips (relleus)!",
-        description: "Un nou joc que determinarà qui en sap més! En aquesta nova versió del Passaparaula, diversos equips s'enfrontaran per demostrar que en saben més que tota la resta. Endevinar durant 15 segons i passar el rosco al company, qui haurà de seguir amb el repte! L'equip que acabi abans serà proclamat màxim guanyador. T'atreveixes? -- hi ha premi per a l'equip guanyador ;)",
-        date: "12 de maig",
-        time: "TBC",
-        place: "TBC",
-        lang: "CA",
-    },
-    {
-        title:"Neural Networks 101: Learn the basics",
-        author: "Laia Mogas",
-        level: "OpenToAll",
-        kind: "Workshop",
-        small_description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia!",
-        description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia! Si no et sonen de res, no pateixis que t'ensenyarem des de 0 què són i com funcionen. Després, el teu model s'enfrontarà als casos privats del nostre Kaggle. Important: Recorda portar el teu ordinador.",
-        date: "11 de maig",
-        time: "TBC",
-        place: "TBC",
-        lang: "CA"
-    },
-    {
-        title: "Taking web development to the NextJS level",
-        author: "Pau Fernández",
-        level: "OpenToAll",
-        kind: "Workshop",
-        small_description: "Inicia't al món del desenvolupament web modern i fes el teu primer lloc web!",
-        description: "Una introducció al desenvolupament web modern, on aprendràs els conceptes bàsics de HTML, CSS i JavaScript. També parlarem de frameworks, en concret NextJS! Aquest taller està pensat per a aquells que vulguin començar a programar i no sàpiguen per on començar. No cal cap coneixement previ! Recorda portar el teu portàtil.",
-        date: "11 de maig",
-        time: "TBC",
-        place: "TBC",
-        lang: 'CA',
-    },
-    {
         title: "Desxifrant el Planeta: La Revolució de la Intel·ligència Artificial en la Observació de la Terra",
         author: "Carlos López-Martínez",
         level: "Advanced",
@@ -190,18 +141,30 @@ export const data_agenda = [
         time: "TBC",
         place: "TBC",
         lang: "CA",
-    },
-    
+    },       
     {
-        title: "Wikipedia race",
-        author: "Data Days",
+        title: "Taking web development to the NextJS level",
+        author: "Pau Fernández",
         level: "OpenToAll",
-        kind: "Activity",
-        small_description: "Torna l'activitat estrella de la Datathon FME, no te la perdis!",
-        description: "Per torns, els jugadors han de passar d'una pàgina inicial de Wikipedia a una pàgina final específica utilitzant només els links dels articles. Demostra que ets el més ràpid.",
+        kind: "Workshop",
+        small_description: "Inicia't al món del desenvolupament web modern i fes el teu primer lloc web!",
+        description: "Una introducció al desenvolupament web modern, on aprendràs els conceptes bàsics de HTML, CSS i JavaScript. També parlarem de frameworks, en concret NextJS! Aquest taller està pensat per a aquells que vulguin començar a programar i no sàpiguen per on començar. No cal cap coneixement previ! Recorda portar el teu portàtil.",
         date: "11 de maig",
         time: "TBC",
         place: "TBC",
+        lang: 'CA',
+    },
+    {
+        title:"Neural Networks 101: Learn the basics",
+        author: "Laia Mogas",
+        level: "OpenToAll",
+        kind: "Workshop",
+        small_description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia!",
+        description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia! Si no et sonen de res, no pateixis que t'ensenyarem des de 0 què són i com funcionen. Després, el teu model s'enfrontarà als casos privats del nostre Kaggle. Important: Recorda portar el teu ordinador.",
+        date: "11 de maig",
+        time: "TBC",
+        place: "TBC",
+        lang: "CA"
     },
     {
         title:"The Information Age: Estudis de futur",
@@ -225,7 +188,62 @@ export const data_agenda = [
         date: "11 de maig",
         time: "TBC",
         place: "TBC",
-    }
+    },
+    {
+        title:"Data Hunt",
+        author:"Organitzadores",
+        level:"OpenToAll",
+        kind:"Activity",
+        small_description:"Gimcana al Campus Nord plena d'enigmes i reptes. Qui s'amaga darrere?",
+        description:(
+            <div>
+            Prepara't per a una emocionant gimcana al Campus Nord de la UPC! En aquesta aventura interactiva, hauràs d'afrontar una sèrie de proves que et portaran a explorar el campus i posar a prova les teves habilitats en enginyeria de dades. Des d'enigmes fins a desafiaments creatius, cada prova superada et proporcionarà una lletra clau per descobrir el nom del matemàtic secret darrere d'aquesta activitat.<br/><br/>
+            L'objectiu és senzill: reunir totes les lletres i desxifrar el misteri. Mentre t'aventures pel campus, tindràs l'oportunitat de conèixer diferents llocs, aprendre alguna cosa nova i compartir l'experiència amb els teus companys. Podràs resoldre totes les proves i descobrir la paraula que desvetlla el secret? Uneix-te a la gimcana i descobreix-ho!
+            </div>
+        ),
+        date:"",
+        time:"",
+        place:"",
+        lang:"",
+    },
+        
+    {
+        title: "PASS THE CODE",
+        author: "Organitzadores",
+        level: "OpenToAll",
+        kind: "Activity",
+        small_description: "Competició de programació per relleus. A veure qui és més ràpid amb el codi del teu equip!",
+        description: "Un nou joc que determinarà qui és el millor equip programant! Diversos equips s'enfrontaran en aquest trepidant repte que consisteix en resoldre tres problemes de programació amb diferents obstacles a superar. Programa durant 1 minut i passa-li el codi al company, qui haurà de seguir amb el repte! L'equip que resolgui abans els tres problemes, serà proclamat màxim guanyador. T'atreveixes? -- hi ha premi per a l'equip guanyador ;)",
+        date: "12 de maig",
+        time: "TBC",
+        place: "TBC",
+        lang: "",
+        
+    },
+    
+    {
+        title: "Batalla d'intel·lectes al Corrent",
+        author: "Organitzadores",
+        level: "OpenToAll",
+        kind: "Activity",
+        small_description: "Posa a prova el teu coneixement en aquest Passaparaula per equips (relleus)!",
+        description: "Un nou joc que determinarà qui en sap més! En aquesta nova versió del Passaparaula, diversos equips s'enfrontaran per demostrar que en saben més que tota la resta. Endevinar durant 15 segons i passar el rosco al company, qui haurà de seguir amb el repte! L'equip que acabi abans serà proclamat màxim guanyador. T'atreveixes? -- hi ha premi per a l'equip guanyador ;)",
+        date: "12 de maig",
+        time: "TBC",
+        place: "TBC",
+        lang: "CA",
+    },
+    {
+        title: "Wikipedia race",
+        author: "Data Days",
+        level: "OpenToAll",
+        kind: "Activity",
+        small_description: "Torna l'activitat estrella de la Datathon FME, no te la perdis!",
+        description: "Per torns, els jugadors han de passar d'una pàgina inicial de Wikipedia a una pàgina final específica utilitzant només els links dels articles. Demostra que ets el més ràpid.",
+        date: "11 de maig",
+        time: "TBC",
+        place: "TBC",
+    },
 
 ]
 
