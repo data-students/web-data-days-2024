@@ -201,9 +201,9 @@ export const data_agenda = [
             L'objectiu és senzill: reunir totes les lletres i desxifrar el misteri. Mentre t'aventures pel campus, tindràs l'oportunitat de conèixer diferents llocs, aprendre alguna cosa nova i compartir l'experiència amb els teus companys. Podràs resoldre totes les proves i descobrir la paraula que desvetlla el secret? Uneix-te a la gimcana i descobreix-ho!
             </div>
         ),
-        date:"",
-        time:"",
-        place:"",
+        date:"11 de maig",
+        time:"TBC",
+        place:"TBC",
         lang:"",
     },
         
