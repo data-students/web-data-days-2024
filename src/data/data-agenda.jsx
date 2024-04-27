@@ -227,7 +227,7 @@ export const data_agenda = [
         author: "Data Days",
         level: "OpenToAll",
         kind: "Activity",
-        small_description: "Torna l'activitat estrella de la Datathon FME, no te la perdis!",
+        small_description: "Torna l'activitat estrella de la Datathon FME No te la perdis!",
         description: "Per torns, els jugadors han de passar d'una pàgina inicial de Wikipedia a una pàgina final específica utilitzant només els links dels articles. Demostra que ets el més ràpid.",
         date: "11 de maig",
         time: "TBC",
