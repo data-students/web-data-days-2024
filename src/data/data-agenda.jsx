@@ -43,7 +43,7 @@ export const data_agenda = [
         level: "Advanced",
         kind: "Conferència",
         small_description: "Descubre qué hay detrás de los efectos visuales de tus películas y series favoritas. ",
-        description: "Descubre qué hay más allá de la pantalla, detrás de los efectos especiales de tus películas y series favoritas. José Pérez Cano, con experiencia en El Ranchito, nos hablará de la inteligencia artificial aplicada al mundo del cine y los modelos de inteligencia artificial que se emplean en el proceso de desarrollo de efectos especiales para las películas. Con muestras de contenido audiovisual para ilustrar su uso junto con las dificultades que comporta, nos hablará de una herramienta que desarrolló para hacer máscaras: el automatte, y de los deepfakes. ",
+        description: "Descubre qué hay más allá de la pantalla, detrás de los efectos especiales de tus películas y series favoritas. José Pérez Cano, con experiencia en El Ranchito, nos hablará de la inteligencia artificial aplicada al mundo del cine y los modelos de aprendizaje automático que se emplean en el proceso de desarrollo de efectos especiales para las películas. Con muestras de contenido audiovisual para ilustrar su uso junto con las dificultades que comporta, nos hablará de una herramienta que desarrolló para hacer máscaras: el automatte, y de los deepfakes. ",
         date: "12 de maig",
         time: "TBC",
         place: "TBC",
@@ -124,7 +124,7 @@ export const data_agenda = [
         
     },
     {
-        title: "Desxifrant el Planeta: La Revolució de la Intel·ligència Artificial en la Observació de la Terra",
+        title: "Desxifrant el Planeta: La Revolució de la IA en l'Observació de la Terra",
         author: "Carlos López-Martínez",
         level: "Advanced",
         kind: "Conferència",
@@ -133,7 +133,7 @@ export const data_agenda = [
               <div>
                 L'ús de la intel·ligència artificial (IA) en la teledetecció i l'observació de la Terra ha emergit com una eina crítica per comprendre i gestionar els recursos naturals i el medi ambient. <br/><br/>
                 Integrant l'aprenentatge automàtic i la visió per computador amb dades de sensors remots, s'ha possibilitat una detecció més precisa de canvis ambientals, com la desforestació, la urbanització i els impactes del canvi climàtic.<br/><br/>
-                Això no només permet un monitoratge més eficaç dels ecosistemes terrestres i marins, sinó que també facilita la presa de decisions informada en àmbits com la gestió dels recursos naturals, la prevenció de desastres o la planificació urbana, com s’ha demostrat en l’àmbit del grup de recerca CommSensLab de la UPC en aspectes com la gestió de l’aigua de rec dintre del projecte AI4Water o la predicció de la superfície cremada en boscos. <br/><br/>
+                Això no només permet un monitoratge més eficaç dels ecosistemes terrestres i marins, sinó que també facilita la presa de decisions informada en àmbits com la gestió dels recursos naturals, la prevenció de desastres o la planificació urbana. Així s’ha demostrat en l’àmbit del grup de recerca CommSensLab de la UPC, en aspectes com la gestió de l’aigua de rec al projecte AI4Water o la predicció de la superfície cremada en boscos. <br/><br/>
                 La integració de la IA en aquests camps representa un pas significatiu cap a una gestió més eficient i sostenible del nostre planeta, amb implicacions profundes per a la ciència, la tecnologia i la presa de decisions a escala global.
               </div>
             ),
