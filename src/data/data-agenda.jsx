@@ -54,7 +54,7 @@ export const data_agenda = [
         author: "Andreu Huguet",
         level: "Advanced",
         kind: "Conferència",
-        small_description: "Com va ser la construcció d'un cotxe autònom des de zero fet per estudiants que assolia els 120km/h.",
+        small_description: "Descobreix com va ser la construcció d'un cotxe autònom des de zero fet per estudiants que arribava als 120km/h.",
         description: "L'Andreu Huguet compartirà la seva experiència en un equip d'estudiants universitaris durant el desenvolupament d'algorismes i la implementació des de zero d'un cotxe autònom, capaç d'assolir els 120 km/h. S'explicaran els detalls tècnics dels algorismes, anècdotes de la insanitat del projecte i les solucions innovadores fetes a la temporada 2020-21 del Formula Student.",
         date: "11 de maig",
         time: "TBC",
