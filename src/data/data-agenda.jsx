@@ -34,7 +34,7 @@ export const data_agenda = [
         date: "12 de maig",
         time: "13h00",
         place: "TBC",
-        lang: "",
+        lang: "EN",
         
     },
     {
