@@ -224,7 +224,7 @@ export const data_agenda = [
     },
     {
         title: "Wikipedia race",
-        author: "Data Days",
+        author: "Organitzadores",
         level: "OpenToAll",
         kind: "Activity",
         small_description: "Torna l'activitat estrella de la Datathon FME. No te la perdis!",
@@ -233,6 +233,18 @@ export const data_agenda = [
         time: "TBC",
         place: "TBC",
     },
+    {
+        title: "Slide Roulette: storytelling express",
+        author: "Organitzadores",
+        level: "OpenToAll",
+        kind: "Activity",
+        small_description: "Enfronta't a fer una presentació totalment aleatòria! Convenç el teu públic",
+        description: "Una activitat per millorar les teves habilitats de comunicació en públic i d'improvisació. Aprèn com utilitzar l'storytelling per abordar el repte de fer una presentació coherent i convincent amb diapositives aleatòries de suport. Tens 15 diapositives per improvisar sobre una temàtica totalment aleatòria. Aconseguiràs deixar-nos sense paraules? O et quedaràs tu sense?",
+        date: "11 de maig",
+        time: "TBC",
+        place: "TBC",
+        lang: "CA",
+    }
 
 ]
 
