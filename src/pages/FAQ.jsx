@@ -23,10 +23,10 @@ const FAQ = () => {
           <div className="FAQanswer">
             Pots consultar-ho a l&apos;apartat <Link to="/agenda">Agenda</Link> de la nostra web.
           </div>
-          <div classname="FAQquestion">
+          <div className="FAQquestion">
             Quant dura cada conferència?
           </div>
-          <div classname="FAQanswer">
+          <div className="FAQanswer">
             Cada conferència té una durada d'aproximadament una hora.
           </div>
           <div className="FAQquestion">
