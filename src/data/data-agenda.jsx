@@ -50,6 +50,18 @@ export const data_agenda = [
         lang: 'ES',
     },
     {
+        title: "Utilitzing AI to enhance multilateral negotiations and facilitate agreement outcomes",
+        author: "UNFCCC",
+        level: "OpenToAll",
+        kind: "Conferència",
+        small_description: "Models de llenguatge aplicats a les negociacions del canvi climàtic a l'ONU.",
+        description: "Presentat per membres de l'equip responsable de desenvolupar solucions d'IA per la UNFCCC (United Nations Framework Convention on Climate Change). Aprèn com funcionen les negociacions que es duen a terme entre els diferents països i grups de l'ONU per la lluita contra el canvi climàtic. Tractarem les seves complexitats, matisos i conseqüències, juntament amb la incorporació dels LLMs (models de llenguatge) per agilitzar i facilitar tots aquests processos. Des de l'experiència, acompanyarem l'explicació amb reflexions i consells sobre el seu ús.",
+        date: "12 de maig",
+        time: "TBC",
+        place: "TBC",
+        lang: "CA",
+    }
+    {
         title: "Cotxes autònoms a altes velocitats (Formula Student)",
         author: "Andreu Huguet",
         level: "Advanced",
