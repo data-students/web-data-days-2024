@@ -50,7 +50,7 @@ export const data_agenda = [
         lang: 'ES',
     },
     {
-        title: "Utilitzing AI to enhance multilateral negotiations and facilitate agreement outcomes",
+        title: "ONU: Utilitzing AI to enhance multilateral negotiations and facilitate agreement outcomes",
         author: "Xavier Tibau i Pau Tarragó",
         level: "OpenToAll",
         kind: "Conferència",
