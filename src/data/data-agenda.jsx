@@ -51,7 +51,7 @@ export const data_agenda = [
     },
     {
         title: "Utilitzing AI to enhance multilateral negotiations and facilitate agreement outcomes",
-        author: "UNFCCC",
+        author: "Xavier Tibau i Pau Tarragó",
         level: "OpenToAll",
         kind: "Conferència",
         small_description: "Models de llenguatge aplicats a les negociacions del canvi climàtic a l'ONU.",
@@ -60,7 +60,7 @@ export const data_agenda = [
         time: "TBC",
         place: "TBC",
         lang: "CA",
-    }
+    },
     {
         title: "Cotxes autònoms a altes velocitats (Formula Student)",
         author: "Andreu Huguet",
