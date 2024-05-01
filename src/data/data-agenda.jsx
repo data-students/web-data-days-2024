@@ -1,5 +1,17 @@
 export const data_agenda = [
     {
+        title: "Gestió de Dades de Bicing : Descobrint el poder de Snowflake i Streamlit",
+        author: "Jordi Puig: T2C",
+        level: "Advanced",
+        kind: "Workshop",
+        small_description: "Aquest taller ensenya a treballar amb dades en temps real utilitzant Snowflake i Streamlit.",
+        description: "Aquest taller ensenya a treballar amb dades en temps real utilitzant Snowflake i Streamlit. El cas d'ús consisteix a obtenir dades de Bicing en temps real i carregar-les en un S3 bucket. Després, Snowflake les transforma per alimentar un tauler interactiu fet amb Streamlit. El resultat és un tauler en temps real que mostra quines estacions necessiten reparació i quin és el millor recorregut per a la furgoneta de Bicing.",
+        date: "11 de maig",
+        time: "17:00h",
+        place: "TBC",
+        lang: "CA",
+    },
+    {
         title:"Què és el Big Data en Genòmica Mèdica?",
         author: "Arcadi Navarro",
         level: "OpenToAll",
