@@ -5,7 +5,7 @@ export const data_agenda = [
         level: "Advanced",
         kind: "Workshop",
         small_description: "Aquest taller ensenya a treballar amb dades en temps real utilitzant Snowflake i Streamlit.",
-        description: "Aquest taller ensenya a treballar amb dades en temps real utilitzant Snowflake i Streamlit. El cas d'ús consisteix a obtenir dades de Bicing en temps real i carregar-les en un S3 bucket. Després, Snowflake les transforma per alimentar un tauler interactiu fet amb Streamlit. El resultat és un tauler en temps real que mostra quines estacions necessiten reparació i quin és el millor recorregut per a la furgoneta de Bicing.",
+        description: "Aquest taller ensenya a treballar amb dades en temps real utilitzant Snowflake i Streamlit. El cas d'ús consisteix a obtenir dades de Bicing en temps real i carregar-les a un S3 bucket. Després, Snowflake les transforma per alimentar un panell interactiu fet amb Streamlit. El resultat és un panell en temps real que mostra quines estacions necessiten reparació i quin és el millor recorregut per a la furgoneta de Bicing.",
         date: "11 de maig",
         time: "17:00h",
         place: "TBC",
