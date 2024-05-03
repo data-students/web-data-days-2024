@@ -117,24 +117,6 @@ export const data_agenda = [
         lang: "",
     },
     {
-        title: "Redefining Defense in Basketball's New Era",
-        author: "Aina Mas Tena",
-        level: "Advanced",
-        kind: "Conferència - TFG",
-        small_description: "Data has transformed offensive strategies in basketball. Defense must adapt to the data-driven game!",
-        description: (
-            <div>
-            The introduction of the three-point line in the National Basketball Association (NBA) has brought a significant transformation in the way teams understand and play the game. With the advent of the 3-pointer, teams progressively adapted their offensive strategies, changing their style of play and their shot selection patterns. However, on the defensive end, teams have struggled to adapt to these strategies with the same effectiveness.  <br/><br/>
-            Aina Mas, in this second part of former data degree students presenting their TFG, focuses on using basketball tracking data to analyze and optimize defensive strategies in response to the growing prevalence of the three-point shot.
-            </div>
-            
-        ),
-        date: "11 de maig",
-        time: "TBC",
-        place: "TBC",
-        lang: "",
-    },
-    {
         title: "Size Matters: The Power of Image Compression",
         author: "Fernando Gastón",
         level: "OpenToAll",
