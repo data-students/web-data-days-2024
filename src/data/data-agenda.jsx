@@ -169,11 +169,11 @@ export const data_agenda = [
         description: (
             <div>
             A aquesta taula rodona moderada per Eva Vidal es posarà llum a tres perspectives diferents: una emprenedora del món de la IA, un professor universitari i Cap del Comitè d'ètica de l'UPC i un estudiant.<br/><br/>
-            
+
+            Una empresa hauria de frenar quan creu que un avenç podria ser perjudicial en algun sentit per la societat?<br/><br/>
             Com entren en joc les lleis? Existeix un interés més enllà de complir merament la llei?<br/>
             Quin és el paper de la universitat? Prepara la universitat més enllà de les capacitats tècniques?<br/>
-            Què has de fer com a científic de dades si et troves front una problemàtica ètica? Quins recursos tens? Què han fet altres persones abans que tu?<br/>
-            Una empresa hauria de frenar quan creu que un avenç podria ser perjudicial en algun sentit per la societat?<br/><br/>
+            Què has de fer com a científic de dades si et trobes front una problemàtica ètica? Quins recursos tens? Què han fet altres persones abans que tu?<br/>
             </div>
                 ),
         date: "11 de maig",
