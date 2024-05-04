@@ -178,6 +178,7 @@ export const data_agenda = [
             En aquesta taula rodona s'exposaran tots els blancs, negres i grisos.
             </div>
                 ),
+        date: "11 de maig",
         time: "11h30",
         place: "Sala Master",
         lang: "CA"
