@@ -174,8 +174,6 @@ export const data_agenda = [
             Quin és el paper de la universitat? Prepara la universitat més enllà de les capacitats tècniques?<br/>
             Què has de fer com a científic de dades si et troves front una problemàtica ètica? Quins recursos tens? Què han fet altres persones abans que tu?<br/>
             Una empresa hauria de frenar quan creu que un avenç podria ser perjudicial en algun sentit per la societat?<br/><br/>
-
-            En aquesta taula rodona s'exposaran tots els blancs, negres i grisos.
             </div>
                 ),
         date: "11 de maig",
