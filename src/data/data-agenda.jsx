@@ -8,7 +8,7 @@ export const data_agenda = [
         description: "Aquest taller ensenya a treballar amb dades en temps real utilitzant Snowflake i Streamlit. El cas d'ús consisteix a obtenir dades de Bicing en temps real i carregar-les a un S3 bucket. Després, Snowflake les transforma per alimentar un panell interactiu fet amb Streamlit. El resultat és un panell en temps real que mostra quines estacions necessiten reparació i quin és el millor recorregut per a la furgoneta de Bicing.",
         date: "11 de maig",
         time: "17:00h",
-        place: "TBC",
+        place: "A6102",
         lang: "CA",
     },
     {
@@ -21,7 +21,7 @@ export const data_agenda = [
         description: "Modern science relies on open data sharing to accelerate progress, a lesson underscored by the COVID-19 crisis. Balancing the right to participate in science with the right to privacy is crucial. Efforts are underway to remove barriers to effective data sharing while respecting existing legislation and human rights. Dr. Navarro will discuss ongoing initiatives aimed at creating open, connected, and FAIR (Findable, Accessible, Interoperable and Reusable) environments for data storage, citing examples from genomics, anthropology, and healthcare.",
         date: "11 de maig",
         time: "10:00h",
-        place: "TBC",
+        place: "Aula Màster",
         lang: "CA"
     },
     {
@@ -45,7 +45,7 @@ export const data_agenda = [
         description: "This last decade has seen a revolution in Deep Learning. The next decade is likely to see a similar revolution in Science powered by Deep Learning. This talk by Ferran Alet, MIT doctorate in machine learning and robotics, will cover the first-hand experience in the research process of both fields: from the process of designing novel algorithms to building ML models that recently became the best weather models in the world, outperforming traditional physics models.",
         date: "12 de maig",
         time: "13h00",
-        place: "TBC",
+        place: "A6002",
         lang: "EN",
         
     },
@@ -57,8 +57,8 @@ export const data_agenda = [
         small_description: "Descubre qué hay detrás de los efectos visuales de tus películas y series favoritas. ",
         description: "Descubre qué hay más allá de la pantalla, detrás de los efectos especiales de tus películas y series favoritas. José Pérez Cano, con experiencia en El Ranchito, nos hablará de la inteligencia artificial aplicada al mundo del cine y los modelos de aprendizaje automático que se emplean en el proceso de desarrollo de efectos especiales para las películas. Con muestras de contenido audiovisual para ilustrar su uso junto con las dificultades que comporta, nos hablará de una herramienta que desarrolló para hacer máscaras: el automatte, y de los deepfakes. ",
         date: "12 de maig",
-        time: "TBC",
-        place: "TBC",
+        time: "11h30",
+        place: "A6001",
         lang: 'ES',
     },
     {
@@ -69,8 +69,8 @@ export const data_agenda = [
         small_description: "Models de llenguatge aplicats a les negociacions del canvi climàtic a l'ONU.",
         description: "Presentat per membres de l'equip responsable de desenvolupar solucions d'IA per la UNFCCC (United Nations Framework Convention on Climate Change). Aprèn com funcionen les negociacions que es duen a terme entre els diferents països i grups de l'ONU per la lluita contra el canvi climàtic. Tractarem les seves complexitats, matisos i conseqüències, juntament amb la incorporació dels LLMs (models de llenguatge) per agilitzar i facilitar tots aquests processos. Des de l'experiència, acompanyarem l'explicació amb reflexions i consells sobre el seu ús.",
         date: "12 de maig",
-        time: "TBC",
-        place: "TBC",
+        time: "15h30",
+        place: "A6002",
         lang: "CA",
     },
     {
@@ -93,8 +93,8 @@ export const data_agenda = [
         small_description: "Cómo puede la IA ayudar a los médicos a diagnosticar y tratar enfermedades crónicas?",
         description: "Todos los seres humanos somos únicos, nuestra genética y nuestro entorno nos define y condiciona nuestro presente y nuestro futuro. En plena era digital, la información sobre nuestra identidad, comportamiento y salud se adquiere de tantas maneras que a veces nos pasan desapercibidas. El trabajo y ambición de Paula Petrone consisten en integrar toda la información disponible sobre nuestra salud (bienestar, dieta, sentimientos, actividad física, estrés, contaminación, clima) y crear modelos que nos permitan en el futuro cercano comprender mejor y curar enfermedades complejas como el cáncer, la depresión, el Alzheimer y la malaria. En esta charla Paula nos hablará sobre su experiencia como científica de datos trabajando en temas de biomedicina. Compartirá algunas impresiones generales del entorno académico, industrial y emprendedor, y  las oportunidades y desafíos en cada uno de ellos.",
         date: "11 de maig",
-        time: "TBC",
-        place: "TBC",
+        time: "15h30",
+        place: "A6002",
         lang: "ES",
     },
     
@@ -124,9 +124,9 @@ export const data_agenda = [
         small_description: "With big data comes great responsibility! Explore image compression techniques.",
         description: "With big data comes great responsibility! The immense amounts of information generated every minute carry huge economic and environmental costs due to data center expenses. However, using mathematical and algorithmic tools such as probability, Fourier transforms, and predictive coding, these challenges can be addressed. During the talk, Fernando Gastón from the Knowledge Transfer Unit at Centre de Recerca Matemàtica (CRM) will introduce some of the essential tools for image compression. After the presentation, he will conduct a hands-on workshop where he'll demonstrate how to compress images using just a few lines of Python code, so don't forget to bring your laptop!",
         date: "12 de maig",
-        time: "TBC",
-        place: "TBC",
-        lang: "",
+        time: "15h30",
+        place: "A6101",
+        lang: "CA",
         
     },
     {
@@ -144,8 +144,8 @@ export const data_agenda = [
               </div>
             ),
         date: "12 de maig",
-        time: "TBC",
-        place: "TBC",
+        time: "17h00",
+        place: "A6001",
         lang: "CA",
     },       
     {
@@ -161,7 +161,29 @@ export const data_agenda = [
         lang: 'CA',
     },
     {
-        title:"Neural Networks 101: Learn the basics",
+        title: "L'Ètica en Joc: Entre la Precaució i la Innovació",
+        author: "Eva Vidal, Neema Balolebwami, Jordi Cortadella, Nathaniel Mitrani",
+        level: "OpenToAll",
+        kind: "Roundtable",
+        small_description: "Estan les empreses realment interessades a aplicar una visió ètica als seus processos?",
+        description: (
+            <div>
+            A aquesta taula rodona moderada per Eva Vidal es posarà llum a tres perspectives diferents: una emprenedora del món de la IA, un professor universitari i Cap del Comitè d'ètica de l'UPC i un estudiant.<br/><br/>
+            
+            Com entren en joc les lleis? Existeix un interés més enllà de complir merament la llei?<br/>
+            Quin és el paper de la universitat? Prepara la universitat més enllà de les capacitats tècniques?<br/>
+            Què has de fer com a científic de dades si et troves front una problemàtica ètica? Quins recursos tens? Què han fet altres persones abans que tu?<br/>
+            Una empresa hauria de frenar quan creu que un avenç podria ser perjudicial en algun sentit per la societat?<br/><br/>
+
+            En aquesta taula rodona s'exposaran tots els blancs, negres i grisos.
+            </div>
+                ),
+        time: "11h30",
+        place: "Sala Master",
+        lang: "CA"
+    },
+    {
+        title:"Neural Networks 101: Aprèn els bàsics",
         author: "Laia Mogas",
         level: "OpenToAll",
         kind: "Workshop",
@@ -181,7 +203,7 @@ export const data_agenda = [
 
         description: "En Jordi Cortadella i Ferran Marqués, professors de la Universitat Politècnica de Catalunya, ofereixen una jornada de portes obertes on s’exposen els diversos estudis vinculats amb la ciència i enginyeria de dades. Xerrada adreçada principalment a estudiants de batxillerat.",
         date: "11 de maig",
-        place: "TBC",
+        place: "A6002",
         lang: "CA"
     },
     {
@@ -197,8 +219,8 @@ export const data_agenda = [
             </div>
         ),
         date:"11 de maig",
-        time:"TBC",
-        place:"TBC",
+        time:"Tot el dia",
+        place:"Campus Nord UPC",
         lang:"CA",
     },
         
@@ -210,8 +232,8 @@ export const data_agenda = [
         small_description: "Competició de programació per relleus. A veure qui és més ràpid amb el codi del teu equip!",
         description: "Un nou joc que determinarà qui és el millor equip programant! Diversos equips s'enfrontaran en aquest trepidant repte que consisteix en resoldre tres problemes de programació amb diferents obstacles a superar. Programa durant 1 minut i passa-li el codi al company, qui haurà de seguir amb el repte! L'equip que resolgui abans els tres problemes, serà proclamat màxim guanyador. T'atreveixes? -- hi ha premi per a l'equip guanyador ;)",
         date: "12 de maig",
-        time: "TBC",
-        place: "TBC",
+        time: "18h30",
+        place: "A6102",
         lang: "CA",
         
     },
@@ -224,8 +246,8 @@ export const data_agenda = [
         small_description: "Posa a prova el teu coneixement en aquest roscó per equips!",
         description: "Un nou joc que determinarà qui en sap més! En aquesta nova versió del Passa-la-paraula, diversos equips s'enfrontaran per demostrar els seus coneixements. L'equip que acabi abans serà proclamat màxim guanyador. T'atreveixes? -- hi ha premi per a l'equip guanyador ;)",
         date: "12 de maig",
-        time: "TBC",
-        place: "TBC",
+        time: "18h30",
+        place: "A5101",
         lang: "CA",
     },
     {
@@ -237,7 +259,7 @@ export const data_agenda = [
         description: "Per torns, els jugadors han de passar d'una pàgina inicial de Wikipedia a una pàgina final específica utilitzant només els links dels articles. Demostra que ets el més ràpid.",
         date: "11 de maig",
         time: "TBC",
-        place: "TBC",
+        place: "A6102",
     },
     {
         title: "Slide Roulette: storytelling express",
