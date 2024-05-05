@@ -32,8 +32,8 @@ export const data_agenda = [
         small_description: "T'apassionen les dades i l'esport? Descobreix com les dades estan revolucionant el món de l'esport.",
         description: "T'apassionen les dades i l'esport? Descobreix com les dades estan revolucionant el món de l'esport, des del futbol fins al bàsquet. Explorarem l'impacte de l'anàlisi esportiva i com s'inicia, amb exemples del FC Barcelona. A més a més, obtindràs consells sobre com entrar en aquesta emocionant indústria. No et pots perdre aquesta conferència que explora el vincle entre les dades i l'esport!",
         date: "11 de maig",
-        time: "TBC",
-        place:"TBC",
+        time: "13h00",
+        place:"A6001",
         lang: "CA",
     },
     {
@@ -55,7 +55,7 @@ export const data_agenda = [
         level: "Advanced",
         kind: "Conferència",
         small_description: "Descubre qué hay detrás de los efectos visuales de tus películas y series favoritas. ",
-        description: "Descubre qué hay más allá de la pantalla, detrás de los efectos especiales de tus películas y series favoritas. José Pérez Cano, con experiencia en El Ranchito, nos hablará de la inteligencia artificial aplicada al mundo del cine y los modelos de aprendizaje automático que se emplean en el proceso de desarrollo de efectos especiales para las películas. Con muestras de contenido audiovisual para ilustrar su uso junto con las dificultades que comporta, nos hablará de una herramienta que desarrolló para hacer máscaras: el automatte, y de los deepfakes. ",
+        description: "Descubre qué hay más allá de la pantalla, detrás de los efectos visuales de tus películas y series favoritas. José Pérez Cano, con experiencia en El Ranchito, nos hablará de la inteligencia artificial aplicada al mundo del cine y los modelos de aprendizaje automático que se emplean en el proceso de desarrollo de efectos especiales para las películas. Con muestras de contenido audiovisual para ilustrar su uso junto con las dificultades que comporta, nos hablará de una herramienta que desarrolló para hacer máscaras: el automatte, y de los deepfakes. ",
         date: "12 de maig",
         time: "11h30",
         place: "A6001",
@@ -81,8 +81,8 @@ export const data_agenda = [
         small_description: "Descobreix com va ser la construcció d'un cotxe autònom des de zero fet per estudiants que arribava als 120km/h.",
         description: "L'Andreu Huguet compartirà la seva experiència en un equip d'estudiants universitaris durant el desenvolupament d'algorismes i la implementació des de zero d'un cotxe autònom, capaç d'assolir els 120 km/h. S'explicaran els detalls tècnics dels algorismes, anècdotes de la insanitat del projecte i les solucions innovadores fetes a la temporada 2020-21 del Formula Student.",
         date: "11 de maig",
-        time: "TBC",
-        place: "TBC",
+        time: "15h30",
+        place: "A6001",
         lang: "CA",
     },
     {
@@ -112,9 +112,9 @@ export const data_agenda = [
             </div>
         ),
         date: "11 de maig",
-        time: "TBC",
-        place: "TBC",
-        lang: "",
+        time: "18h30",
+        place: "A6001",
+        lang: "CA",
     },
     {
         title: "Size Matters: The Power of Image Compression",
@@ -156,8 +156,8 @@ export const data_agenda = [
         small_description: "Inicia't al món del desenvolupament web modern i fes el teu primer lloc web!",
         description: "Una introducció al desenvolupament web modern, on aprendràs els conceptes bàsics de HTML, CSS i JavaScript. També parlarem de frameworks, en concret NextJS! Aquest taller està pensat per a aquells que vulguin començar a programar i no sàpiguen per on començar. No cal cap coneixement previ! Recorda portar el teu portàtil.",
         date: "11 de maig",
-        time: "TBC",
-        place: "TBC",
+        time: "18h30",
+        place: "A6101",
         lang: 'CA',
     },
     {
@@ -178,7 +178,7 @@ export const data_agenda = [
                 ),
         date: "11 de maig",
         time: "11h30",
-        place: "Sala Master",
+        place: "Aula Màster",
         lang: "CA"
     },
     {
@@ -189,8 +189,8 @@ export const data_agenda = [
         small_description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia!",
         description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia! Si no et sonen de res, no pateixis que t'ensenyarem des de 0 què són i com funcionen. Després, el teu model s'enfrontarà als casos privats del nostre Kaggle. Important: Recorda portar el teu ordinador.",
         date: "11 de maig",
-        time: "TBC",
-        place: "TBC",
+        time: "11h30",
+        place: "A6101",
         lang: "CA"
     },
     {
@@ -202,6 +202,7 @@ export const data_agenda = [
 
         description: "En Jordi Cortadella i Ferran Marqués, professors de la Universitat Politècnica de Catalunya, ofereixen una jornada de portes obertes on s’exposen els diversos estudis vinculats amb la ciència i enginyeria de dades. Xerrada adreçada principalment a estudiants de batxillerat.",
         date: "11 de maig",
+        time:"13h00", 
         place: "A6002",
         lang: "CA"
     },
@@ -257,7 +258,7 @@ export const data_agenda = [
         small_description: "Torna l'activitat estrella de la Datathon FME. No te la perdis!",
         description: "Per torns, els jugadors han de passar d'una pàgina inicial de Wikipedia a una pàgina final específica utilitzant només els links dels articles. Demostra que ets el més ràpid.",
         date: "11 de maig",
-        time: "TBC",
+        time: "20h00",
         place: "A6102",
     },
     {
@@ -268,8 +269,8 @@ export const data_agenda = [
         small_description: "Enfronta't a fer una presentació totalment aleatòria! Convenç el teu públic",
         description: "Una activitat per millorar les teves habilitats de comunicació en públic i d'improvisació. Aprèn com utilitzar l'storytelling per abordar el repte de fer una presentació coherent i convincent amb diapositives aleatòries de suport. Tens 15 diapositives per improvisar sobre una temàtica totalment aleatòria. Aconseguiràs deixar-nos sense paraules? O et quedaràs tu sense?",
         date: "11 de maig",
-        time: "TBC",
-        place: "TBC",
+        time: "19:15",
+        place: "A6001",
         lang: "CA",
     }
 
