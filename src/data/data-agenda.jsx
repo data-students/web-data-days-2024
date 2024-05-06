@@ -182,6 +182,18 @@ export const data_agenda = [
         lang: "CA"
     },
     {
+        title: "El què, qui, com de fundar una start-up (Telecos.cat)",
+        author: "Xavier Martí-Renom i Inés Garriga Rodríguez",
+        level: "OpenToAll",
+        kind: "Conferència",
+        small_description: "Un exemple d'emprenedoria de dades aplicada a la Unió Europea.",
+        description: "Un exemple d'emprenedoria de dades aplicada a la Unió Europea. Gestió i seguretat de grans mercats de dades: la integritat i la garantía de la cadena de custodia. Telecos.cat ens mostra què s’amaga darrere de tota start-up exitosa. Xavier Martí-Renom i Inés Garriga Rodríguez posen sobre la taula anys d’experiència en la innovació i consells  que no vols perdre’t. ",
+        date: "12 de maig",
+        time: "17h00",
+        place: "A6002",
+        lang: "CA",
+    },
+    {
         title:"Neural Networks 101: Aprèn els bàsics",
         author: "Laia Mogas",
         level: "OpenToAll",
