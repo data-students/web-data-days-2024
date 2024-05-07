@@ -38,8 +38,16 @@ const Home = () => {
               <a href="https://aed.cat/" target="_blank" rel="noopener noreferrer">Més informació!</a>
             </div>
           </div>
-        </section >
-      </div >
+        </section>
+        <br /><br /><br /><br /><br />
+        <section className="sponsors">
+          <div>
+            <p>Amb el suport de:</p>
+            <br />
+            <img src='T2C_logo.svg' alt='T2C' width='200px' />
+          </div>
+        </section>
+      </div>
       <div className="home-info-container">
         <div className="home-text">
           <div className='hidden-text'>
