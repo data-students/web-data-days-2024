@@ -39,7 +39,7 @@ const FAQ = () => {
             Com m&apos;apunto a l&apos;esdeveniment?
           </div>
           <div className="FAQanswer">
-            Pots apuntar-te a través del següent <a href="https://form.typeform.com/to/jvZTlP41" target="_blank" rel="noreferrer">formulari</a>. Tothom és benvingut, tant si ets estudiant com si no!
+            Pots apuntar-te a través del següent <a href="https://form.typeform.com/to/jvZTlP41" target="_blank" rel="noopener">formulari</a>. Tothom és benvingut, tant si ets estudiant com si no!
           </div>
           <div className="FAQquestion">
             Quin és el preu de l&apos;entrada?
@@ -51,7 +51,7 @@ const FAQ = () => {
             Com puc arribar-hi?
           </div>
           <div className="FAQanswer">
-            El transport públic és la millor opció per arribar al Campus Nord. Us deixem un <a href="https://maps.app.goo.gl/Ns7BG6ma1fzjLbbUA" target="_blank" rel="noreferrer">enllaç</a> amb la ubicació exacta.
+            El transport públic és la millor opció per arribar al Campus Nord. Us deixem un <a href="https://maps.app.goo.gl/Ns7BG6ma1fzjLbbUA" target="_blank" rel="noopener">enllaç</a> amb la ubicació exacta.
           </div>
           <div className="FAQquestion">
             On puc menjar?

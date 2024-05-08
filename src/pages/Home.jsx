@@ -35,7 +35,7 @@ const Home = () => {
               <h3>Qui som?</h3>
               <p>Som l&apos;associació estudiantil del <a href='https://dse.upc.edu/ca' target='_blank' rel='noopener'>grau en ciència i enginyeria de dades</a> de la <a href='https://upc.edu' target='_blank' rel='noopener'>UPC</a>. Treballem per a ajudar a millorar el grau, crear un vincle entre estudiants i alumni, organitzar activitats, compartir experiències de l&apos;alumnat i promoure l&apos;ecosistema de les dades català, entre moltes altres!</p>
               <br />
-              <a href="https://aed.cat/" target="_blank" rel="noopener noreferrer">Més informació!</a>
+              <a href="https://aed.cat/" target="_blank" rel="noopener">Més informació!</a>
             </div>
           </div>
         </section>
@@ -44,7 +44,9 @@ const Home = () => {
           <div>
             <p>Amb el suport de:</p>
             <br />
-            <img src='T2C_logo.svg' alt='T2C' width='200px' />
+            <a href='https://www.t2client.com/' target='_blank' rel='noopener'>
+              <img src='T2C_logo.svg' alt='T2C' width='200px' />
+            </a>
           </div>
         </section>
       </div>
