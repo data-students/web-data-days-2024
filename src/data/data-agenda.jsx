@@ -199,7 +199,7 @@ export const data_agenda = [
         level: "OpenToAll",
         kind: "Workshop",
         small_description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia!",
-        description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia! Si no et sonen de res, no pateixis que t'ensenyarem des de 0 què són i com funcionen. Després, el teu model s'enfrontarà als casos privats del nostre Kaggle. Important: Recorda portar el teu ordinador.",
+        description: "Aprèn els bàsics sobre xarxes neuronals i programa'n la teva pròpia! Si no et sonen de res, no pateixis que t'ensenyarem des de 0 què són i com funcionen. Important: Recorda portar el teu ordinador.",
         date: "11 de maig",
         time: "11h30",
         place: "A6101",
